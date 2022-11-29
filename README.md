@@ -14,7 +14,8 @@ Conectando pessoas que querem viajar (e se hospedar) com anfitriões que querem 
 
 Malta é um país situado em um arquipélago no Mediterrâneo central, localizado no Sul da Europa entre a Sicília (Itália) e a costa Norte da África.
 
-[Link para o projeto completo](https://medium.com/@rafaelnduarte)
+[Link para o projeto completo](https://github.com/fvillasb/analise-airbnb/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
+
 
 **Links para me acharem:**
 * [LinkedIn](https://www.linkedin.com/in/felipevillasboas/)
