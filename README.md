@@ -17,6 +17,7 @@ Malta é um país situado em um arquipélago no Mediterrâneo central, localizad
 [Link para o projeto completo](https://github.com/fvillasb/analise-airbnb/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
 
 
+
 **Links para me acharem:**
 * [LinkedIn](https://www.linkedin.com/in/felipevillasboas/)
 * [Portfólio Completo](https://github.com/fvillasb/portfolio)
